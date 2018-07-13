@@ -1,0 +1,35 @@
+h1{
+  text-align: center;
+}
+body{
+  background-color: yellow;
+}
+img{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+.navBar li a{
+  display: block;
+  background-color: #f9ff8c;
+  padding: 20px 50px;
+  text-decoration: none;
+  text-align: center;
+  font-size: 20px;
+}
+.navBar li a:hover{
+  background-color: white;
+}
+p{
+  margin: 50px 75px;
+  font-size: 20px;
+}
